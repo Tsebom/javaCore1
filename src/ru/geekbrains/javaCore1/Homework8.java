@@ -1,13 +1,13 @@
 package ru.geekbrains.javaCore1;
 
-/* Домашнее задание №1
+/* Домашнее задание №8
  *  @author Nezhdanov Sergei
- *  @version
+ *  @version 1.0
  * */
 
-public class Main {
+public class Homework8 {
 
     public static void main(String[] args) {
-	// write your code here
+        new MyWindow();
     }
 }
